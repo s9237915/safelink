@@ -37,10 +37,10 @@ if(x=="13"){xxx="/2019/03/the-incredible-things-that-latest.html"}
 if(x=="14"){xxx="/2019/03/4-main-categories-of-erp-systems-on.html"}
 if(x=="15"){xxx="/2019/03/4-different-types-of-microsoft-erp.html"}
 if(x=="16"){xxx="/2019/03/the-most-popular-tools-on-market.html"}
-if(x=="17"){xxx="/2019/03/the-incredible-things-that-latest.html"}
-if(x=="18"){xxx="/2019/03/list-of-erp-systems-which-help-to.html"}
-if(x=="19"){xxx="/2019/03/the-incredible-things-that-latest.html"}
-if(x=="20"){xxx="/2019/03/list-of-erp-systems-which-help-to.html"}a_to_ve[i].href="http://www.healthyfamily98.bid"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="17"){xxx="/2019/03/microsoft-dynamics-ax-review.html"}
+if(x=="18"){xxx="/2019/03/3-cheaper-but-powerful-open-source-erp.html"}
+if(x=="19"){xxx="/2019/03/3-top-erp-vendors-you-should-try-for.html"}
+if(x=="20"){xxx="/2019/03/the-differences-between-accounting-and.html"}a_to_ve[i].href="http://www.healthyfamily98.bid"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
