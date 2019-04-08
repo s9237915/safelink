@@ -19,17 +19,28 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*10)+ 1);
+var x=Math.floor((Math.random()*20)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/03/the-differences-between-accounting-and.html"}
-if(x=="2"){xxx="/2019/03/3-top-erp-vendors-you-should-try-for.html"}
-if(x=="3"){xxx="/2019/03/3-cheaper-but-powerful-open-source-erp.html"}
-if(x=="4"){xxx="/2019/03/microsoft-dynamics-ax-review.html"}
-if(x=="5"){xxx="/2019/03/the-most-popular-tools-on-market.html"}
-if(x=="6"){xxx="/2019/03/4-different-types-of-microsoft-erp.html"}
-if(x=="7"){xxx="/2019/03/4-main-categories-of-erp-systems-on.html"}
-if(x=="8"){xxx="/2019/03/the-incredible-things-that-latest.html"}
-if(x=="9"){xxx="/2019/03/list-of-erp-systems-which-help-to.html"}a_to_ve[i].href="http://www.healthyfamily98.bid"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/04/how-to-choose-best-erp-software-for-3.html"}
+if(x=="2"){xxx="/2019/04/4-important-preparations-before.html"}
+if(x=="3"){xxx="/2019/04/things-you-must-know-before-using.html"}
+if(x=="4"){xxx="/2019/04/3-best-alternative-choices-in-list-of.html"}
+if(x=="5"){xxx="/2019/04/the-right-time-to-replace-your-old.html"}
+if(x=="6"){xxx="/2019/04/the-most-important-features-in-erp.html"}
+if(x=="7"){xxx="/2019/04/3-main-syteline-erp-software-main.html"}
+if(x=="8"){xxx="/2019/04/3-tips-for-choosing-erp-software.html"}
+if(x=="9"){xxx="/2019/04/the-best-erp-software-on-market-and.html"}
+if(x=="10"){xxx="/2019/04/how-to-pick-best-erp-business-systems.html"}
+if(x=="11"){xxx="/2019/04/the-pros-and-cons-weighing-out.html"}
+if(x=="12"){xxx="/2019/03/list-of-erp-systems-which-help-to.html"}
+if(x=="13"){xxx="/2019/03/the-incredible-things-that-latest.html"}
+if(x=="14"){xxx="/2019/03/4-main-categories-of-erp-systems-on.html"}
+if(x=="15"){xxx="/2019/03/4-different-types-of-microsoft-erp.html"}
+if(x=="16"){xxx="/2019/03/the-most-popular-tools-on-market.html"}
+if(x=="17"){xxx="/2019/03/the-incredible-things-that-latest.html"}
+if(x=="18"){xxx="/2019/03/list-of-erp-systems-which-help-to.html"}
+if(x=="19"){xxx="/2019/03/the-incredible-things-that-latest.html"}
+if(x=="20"){xxx="/2019/03/list-of-erp-systems-which-help-to.html"}a_to_ve[i].href="http://www.healthyfamily98.bid"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
